@@ -14,4 +14,4 @@ This project focuses on clean design, beginner-friendly structure, and reusable 
 - CSS3
 
 ## Live Demo
- https://wasim2934.github.io/HomePageUI_Project-HTML-CSS/
+https://wasim2934.github.io/HomePageUI_Project-HTML-CSS/
